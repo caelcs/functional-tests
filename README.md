@@ -5,6 +5,10 @@
 - Clone repo
 - npm install
 
+# Run tests
+
+- npm test
+
 ## Warning
 
 In cypress.json you can check the "chromeWebSecurity" property disabled. Please, do not use it
