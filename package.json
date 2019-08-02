@@ -1,5 +1,5 @@
 {
-  "name": "Funcional Tests",
+  "name": "funcional-tests",
   "version": "1.0.0",
   "description": "Functional tests",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "Private",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": ">=0.18.1",
     "cypress": "^3.1.5",
     "cypress-cucumber-preprocessor": "^1.9.1",
     "fs-extra": "^7.0.1",
