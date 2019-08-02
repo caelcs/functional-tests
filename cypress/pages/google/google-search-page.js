@@ -4,7 +4,7 @@ const SEARCH_FIELD = 'input[type=text]';
 const SEARCH_BUTTON = 'input[type=submit]';
 const SEARCH_TEXT = 'Search';
 const FEEL_LUCKY_BUTTON = 'input[type=submit]';
-const FEEL_LUCKY_TEXT = 'lucky';
+const FEEL_LUCKY_TEXT = 'Lucky';
 
 class GoogleSearchPage {
   static visit() {
