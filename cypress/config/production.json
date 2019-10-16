@@ -1,4 +1,4 @@
 {
-  "baseUrl": "https://www.google.com",
+  "baseUrl": "http://terraform-asg-example-2037756546.us-east-1.elb.amazonaws.com",
   "e2eDatabaseJobApi": "https://some-server-production.com/e2e-api/"
 }

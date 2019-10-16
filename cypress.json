@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://www.google.es",
+  "baseUrl": "http://ec2-3-231-177-0.compute-1.amazonaws.com",
   "ignoreTestFiles": ["*.js", "*.md"],
   "reporter": "junit",
   "reporterOptions": {
