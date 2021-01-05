@@ -17,7 +17,7 @@
   "author": "Adolfo Custidiano",
   "license": "Apache2",
   "dependencies": {
-    "axios": ">=0.18.1",
+    "axios": ">=0.21.1",
     "cypress": "^3.4.1",
     "cypress-cucumber-preprocessor": "^1.13.0",
     "fs-extra": "^8.1.0",
